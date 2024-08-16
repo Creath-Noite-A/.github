@@ -3,7 +3,7 @@
 # Integrantes:
 ## Back-end
 - Caio Alves 
-- Levi Sales (Back-end)
+- Levi Sales
 - Pedro Souza
 - Thiago Pinheiros
 ## Front-end
