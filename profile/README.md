@@ -5,7 +5,7 @@
 - Caio Alves 
 - Levi Sales
 - Pedro Souza
-- Thiago Pinheiros
 ## Front-end
 - Letícia Andonacci
 - Mateus Corrêa
+- Thiago Pinheiros
